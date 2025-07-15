@@ -23,7 +23,7 @@ A modular and scalable e-commerce backend built using microservices architecture
 - 🔹 Used **MySQL** for persistent data storage
 - 🔹 Built with a focus on modularity, security, and scalability
 
-👉 [View Repository](https://github.com/shivam-522/ecommerce-microservice-app)
+👉 [View Repository](https://github.com/shivam-522/ecommerce-microservices)
 
 ---
 
